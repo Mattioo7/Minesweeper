@@ -1,0 +1,8 @@
+﻿  WinAPI22_16.cpp
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(260,42): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(264,9): warning C4101: 's': unreferenced local variable
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(384,43): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(449,43): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\matim\source\repos\WinAPI22_16\WinAPI22_16.cpp(799,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  WinAPI22_16.vcxproj -> C:\Users\matim\source\repos\WinAPI22_16\Debug\WinAPI22_16.exe
